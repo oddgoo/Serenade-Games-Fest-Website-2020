@@ -21,9 +21,11 @@ html {
 }
 
 body{
-  background-image: url("/img/bg.png");
+  background-image: url("https://serenade.games/img/bg.png");
   background-size: contain;
   background-repeat: repeat;
+  background-size: 30%;
+
 }
 
 .game-screenshot{
@@ -47,6 +49,7 @@ body{
   margin: auto;
   font-family: sans-serif;
   line-height: 1.7em;
+  background-color: #000;
 }
 
 .hero-image{
