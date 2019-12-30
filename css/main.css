@@ -40,6 +40,10 @@ html {
   line-height: 1.7em;
 }
 
+.hero-image{
+  max-width: 100%;
+}
+
 .lineup{
   list-style: inside;
   padding-left: 0;
