@@ -15,7 +15,7 @@ html {
   color: #eee;
   font-size: 1em;
   line-height: 1.4;
-  background-color: #0F0F0E;
+  background-color: #000;
 }
 
 .game-screenshot{
@@ -37,7 +37,7 @@ html {
   max-width: 700px;
   text-align: center;
   margin: auto;
-  font-family: serif;
+  font-family: sans-serif;
   line-height: 1.7em;
 }
 
