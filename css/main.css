@@ -18,6 +18,18 @@ html {
   background-color: #0F0F0E;
 }
 
+.game-screenshot{
+  height: 200px;
+  background-image: url("https://www.amberial.com/img/LevelEditorRed.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.game-caption p{
+  color: white;
+  text-underline: #0F0F0E;
+}
+
 .main{
   font-size: 1.2em;
   padding: 30px 0px 30px 0px;
@@ -45,6 +57,19 @@ html {
  *
  * Customize the background color to match your design.
  */
+
+#img-everybodys-sad{
+  background-image: url("https://steamcdn-a.akamaihd.net/steam/apps/898080/ss_7c112c189542d132428703daf067b4c8fbd6661f.600x338.jpg?t=1558324299");
+}
+#img-first-date{
+  background-image: url("https://img.itch.zone/aW1hZ2UvNDkwNTYwLzI1NjkxNDkucG5n/original/nZEkPd.png");
+}
+#img-irori{
+  background-image: url("https://img.itch.zone/aW1hZ2UvNDcxOTU1LzI0ODYyMzMuZ2lm/original/4m%2BMPd.gif");
+}
+#img-symposium-grief{
+  background-image: url("https://img.itch.zone/aW1hZ2UvMjgzODMwLzE4MDI3MzguanBn/original/S3dl6K.jpg");
+}
 
 ::-moz-selection {
   background: #b3d4fc;
