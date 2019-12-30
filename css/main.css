@@ -28,6 +28,10 @@ body{
 
 }
 
+a{
+  color: dodgerblue;
+}
+
 .game-screenshot{
   height: 200px;
   background-image: url("https://www.amberial.com/img/LevelEditorRed.png");
@@ -37,14 +41,13 @@ body{
 }
 
 .game-caption p{
-  color: white;
   text-underline: #0F0F0E;
 }
 
 .main{
-  font-size: 1.2em;
+  font-size: 1.15em;
   padding: 30px 45px 30px 45px;
-  max-width: 700px;
+  max-width: 610px;
   text-align: center;
   margin: auto;
   font-family: sans-serif;
