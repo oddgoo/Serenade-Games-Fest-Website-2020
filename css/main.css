@@ -23,6 +23,7 @@ html {
   background-image: url("https://www.amberial.com/img/LevelEditorRed.png");
   background-size: cover;
   background-position: center;
+  border-radius: 20px;
 }
 
 .game-caption p{
