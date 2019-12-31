@@ -29,7 +29,7 @@ body{
 }
 
 a{
-  color: dodgerblue;
+  color: #f744be;
 }
 
 .game-screenshot{
@@ -45,12 +45,12 @@ a{
 }
 
 .main{
-  font-size: 1.15em;
+  font-size: 1.05em;
   padding: 30px 45px 30px 45px;
   max-width: 610px;
   text-align: center;
   margin: auto;
-  font-family: sans-serif;
+font-family: 'Raleway', sans-serif;
   line-height: 1.7em;
   background-color: #000;
 }
@@ -88,6 +88,9 @@ a{
 }
 #img-symposium-grief{
   background-image: url("https://img.itch.zone/aW1hZ2UvMjgzODMwLzE4MDI3MzguanBn/original/S3dl6K.jpg");
+}
+#img-every-brick{
+  background-image: url("https://img.itch.zone/aW1hZ2UvMjEwNDUwLzk4ODkwNC5wbmc=/original/QjYGLe.png");
 }
 
 ::-moz-selection {
