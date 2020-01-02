@@ -93,6 +93,38 @@ font-family: 'Raleway', sans-serif;
   background-image: url("https://img.itch.zone/aW1hZ2UvMjEwNDUwLzk4ODkwNC5wbmc=/original/QjYGLe.png");
 }
 
+#img-wibble-wobble{
+  background-image: url("https://img.itch.zone/aW1hZ2UvMTM0NTM1LzY0Mzk3MC5naWY=/original/IFfcYC.gif");
+}
+
+#img-pigeon-game{
+  background-image: url("https://img.itch.zone/aW1hZ2UvMjU3OTEyLzE1Nzg2NzIuZ2lm/original/J3oBar.gif");
+}
+
+#img-ode-to-my-hometown{
+  background-image: url("https://img.itch.zone/aW1hZ2UvMjYzNjc5LzEzMjkzOTkuZ2lm/347x500/QhmxID.gif");
+}
+
+#img-endless-scroll{
+  background-image: url("img/screens/endless-scroll.png");
+}
+
+#img-become{
+  background-image: url("https://img.itch.zone/aW1hZ2UvNTA0MDExLzI2MTA0MTAuZ2lm/347x500/nwyuII.gif");
+}
+
+#img-am-i-making-sense{
+  background-image: url("img/screens/making-sense.png");
+}
+
+#img-compass-points{
+  background-image: url("img/screens/compass.png");
+}
+
+#img-adventure-boy{
+  background-image: url("https://steamcdn-a.akamaihd.net/steam/apps/1207380/ss_170766aa9edc0332560af90860dfba64bb7ebf1a.600x338.jpg?t=1576329804");
+}
+
 ::-moz-selection {
   background: #b3d4fc;
   text-shadow: none;
