@@ -106,7 +106,7 @@ font-family: 'Raleway', sans-serif;
 }
 
 #img-endless-scroll{
-  background-image: url("img/screens/endless-scroll.png");
+  background-image: url("../img/screens/endless-scroll.png");
 }
 
 #img-become{
@@ -114,11 +114,11 @@ font-family: 'Raleway', sans-serif;
 }
 
 #img-am-i-making-sense{
-  background-image: url("img/screens/making-sense.png");
+  background-image: url("../img/screens/making-sense.png");
 }
 
 #img-compass-points{
-  background-image: url("img/screens/compass.png");
+  background-image: url("../img/screens/compass.png");
 }
 
 #img-adventure-boy{
