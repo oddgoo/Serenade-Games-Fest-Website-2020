@@ -125,6 +125,14 @@ font-family: 'Raleway', sans-serif;
   background-image: url("https://steamcdn-a.akamaihd.net/steam/apps/1207380/ss_170766aa9edc0332560af90860dfba64bb7ebf1a.600x338.jpg?t=1576329804");
 }
 
+#img-a-month{
+  background-image: url("../img/screens/a-month.png");
+}
+
+#img-grass-mud-horse{
+  background-image: url("https://img.itch.zone/aW1hZ2UvNTM2NzM2LzI3OTEwNzIuZ2lm/original/GvudtW.gif");
+}
+
 ::-moz-selection {
   background: #b3d4fc;
   text-shadow: none;
