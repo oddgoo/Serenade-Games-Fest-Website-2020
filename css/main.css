@@ -129,6 +129,9 @@ font-family: 'Raleway', sans-serif;
   background-image: url("../img/screens/a-month.png");
 }
 
+#img-grass-mud-horse{
+  background-image: url("https://img.itch.zone/aW1hZ2UvNTM2NzM2LzI3OTEwNzIuZ2lm/original/GvudtW.gif");
+}
 
 ::-moz-selection {
   background: #b3d4fc;
