@@ -77,6 +77,20 @@ font-family: 'Raleway', sans-serif;
  * Customize the background color to match your design.
  */
 
+#beautycopter { background-image: url("https://cdn.akamai.steamstatic.com/steam/apps/1290200/ss_f99fa827e9cccceeef0476d2d313209f863331b6.600x338.jpg?t=1613117996");}
+#bomb-dolls { background-image: url("https://img.itch.zone/aW1hZ2UvMzA5NTQ2LzI0NDI4MzgucG5n/347x500/%2Bzo39e.png");}
+#cos { background-image: url("https://img.itch.zone/aW1nLzUyMjc1NTAucG5n/original/%2F6eOBA.png");}
+#grass-mud-horse { background-image: url("https://img.itch.zone/aW1hZ2UvNTM2NzM2LzI3OTEwNzIuZ2lm/original/GvudtW.gif");}
+#hard-lads { background-image: url("https://img.itch.zone/aW1hZ2UvNjU2MjEyLzM1MzQ5MTUuanBn/347x500/%2Bo61vv.jpg");}
+#in-the-crags { background-image: url("http://inthecrags.com/images/InTheCrags_gif1.gif");}
+#lucid-heist { background-image: url("https://img.itch.zone/aW1nLzQwNDQ3NTAuZ2lm/original/FeSv%2BZ.gif");}
+#n4s { background-image: url("https://img.itch.zone/aW1hZ2UvMzU5ODEzLzI0MDY5MDMuZ2lm/347x500/DrtPj7.gif");}
+#sludge-life { background-image: url("https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsludge-life%2Fhome%2FEGS_SLUDGELIFE_TerriVellmannDoseone_G1A_14-1920x1080-827694bf462b9ca89865c855d49e02f28d08357b.jpg");}
+#something-looks-weird { background-image: url("https://img.itch.zone/aW1hZ2UvNTg2NzQ0LzMzMjQzNjAucG5n/347x500/%2FACfDL.png");}
+#offpeak-city { background-image: url("https://img.itch.zone/aW1hZ2UvNDE3NDA1LzI0MTQzMzcuanBn/347x500/ar8a%2FM.jpg");}
+#umurangi { background-image: url("https://cdn.akamai.steamstatic.com/steam/apps/1223500/ss_533f5b67b93d74949d84382ca17e4780d23f64d6.600x338.jpg?t=1619427236");}
+
+
 #img-everybodys-sad{
   background-image: url("https://steamcdn-a.akamaihd.net/steam/apps/898080/ss_7c112c189542d132428703daf067b4c8fbd6661f.600x338.jpg?t=1558324299");
 }
