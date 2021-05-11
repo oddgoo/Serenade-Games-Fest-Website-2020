@@ -25,6 +25,17 @@ body{
   background-size: contain;
   background-repeat: repeat;
   background-size: 30%;
+}
+
+#body-dreamscapes{
+  margin: 0;
+  padding: 0;
+  background-color: #deff00;
+  background-image: url('https://i.imgur.com/xGeW1Hb.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center bottom;
+  background-size: 100% 100%;
 
 }
 
@@ -89,7 +100,9 @@ font-family: 'Raleway', sans-serif;
 #something-looks-weird { background-image: url("https://img.itch.zone/aW1hZ2UvNTg2NzQ0LzMzMjQzNjAucG5n/347x500/%2FACfDL.png");}
 #offpeak-city { background-image: url("https://img.itch.zone/aW1hZ2UvNDE3NDA1LzI0MTQzMzcuanBn/347x500/ar8a%2FM.jpg");}
 #umurangi { background-image: url("https://cdn.akamai.steamstatic.com/steam/apps/1223500/ss_533f5b67b93d74949d84382ca17e4780d23f64d6.600x338.jpg?t=1619427236");}
-
+#what-comes-after { background-image: url("https://cdn.akamai.steamstatic.com/steam/apps/1421760/ss_4b1263528e7339d595c22c3bff5ee0ba30684f4b.1920x1080.jpg?t=1619250292");}
+#topography { background-image: url("https://img.itch.zone/aW1nLzQ5MDUzNDEucG5n/315x250%23c/TzdqWX.png");}
+#indifferent { background-image: url("https://cdn.akamai.steamstatic.com/steam/apps/1249300/ss_590bba06dc76f4853288de97d9f4ee477b5ca247.1920x1080.jpg?t=1618908025");}
 
 #img-everybodys-sad{
   background-image: url("https://steamcdn-a.akamaihd.net/steam/apps/898080/ss_7c112c189542d132428703daf067b4c8fbd6661f.600x338.jpg?t=1558324299");
