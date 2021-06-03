@@ -36,7 +36,11 @@ body{
   background-attachment: fixed;
   background-position: center bottom;
   background-size: 100% 100%;
+}
 
+#body-freeplay-2021{
+  background-image: none;
+  background-color: #3d4a53;
 }
 
 a{
