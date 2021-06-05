@@ -33,9 +33,30 @@ body{
   background-color: #deff00;
   background-image: url('https://i.imgur.com/xGeW1Hb.jpg');
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-position: center bottom;
   background-size: 100% 100%;
+}
+
+.freeplay-banner{
+  width: 100%;
+  height: 700px;
+  background-image: url('/img/freeplay2021.jpg');
+  background-position: top;
+  background-size: 1900px;
+  background-repeat: no-repeat;
+  background-color: #9d9d9d;
+}
+
+@media only screen and (max-width: 800px) {
+  .freeplay-banner{
+    width: 100%;
+    height: 500px;
+    background-image: url('/img/freeplay2021.jpg');
+    background-position: top;
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    background-color: #9d9d9d;
+  }
 }
 
 #body-freeplay-2021{
