@@ -65,7 +65,7 @@ body{
 }
 
 a{
-  color: #f744be;
+  color: #ebb595;
 }
 
 .game-screenshot{
@@ -75,12 +75,8 @@ a{
   border-radius: 20px;
 }
 
-.game-caption-freeplay{
-  color: #ebb595
-}
-
 .game-caption p{
-  text-underline: #0F0F0E;
+  text-underline: #ebb595;
 }
 
 .main{
@@ -89,7 +85,7 @@ a{
   max-width: 610px;
   text-align: center;
   margin: auto;
-font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   line-height: 1.7em;
   background-color: #000;
 }
@@ -353,9 +349,9 @@ textarea {
 }
 
 @media print,
-  (-webkit-min-device-pixel-ratio: 1.25),
-  (min-resolution: 1.25dppx),
-  (min-resolution: 120dpi) {
+(-webkit-min-device-pixel-ratio: 1.25),
+(min-resolution: 1.25dppx),
+(min-resolution: 120dpi) {
   /* Style adjustments for high resolution devices */
 }
 
