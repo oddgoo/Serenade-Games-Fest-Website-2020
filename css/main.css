@@ -92,6 +92,8 @@ a{
 font-family: 'Raleway', sans-serif;
   line-height: 1.7em;
   background-color: #000;
+  border-left: 4px solid #5b419a;
+  border-right: 4px solid #5b419a;
 }
 
 .text
@@ -101,7 +103,14 @@ font-family: 'Raleway', sans-serif;
 
 .footer
 {
-  text-align: justify;
+  text-align: left;
+}
+
+.youtubecontainer
+{
+  margin-top: 25px;
+  height: 300px;
+  border: 2px solid #5b419a;
 }
 
 .hero-image{
