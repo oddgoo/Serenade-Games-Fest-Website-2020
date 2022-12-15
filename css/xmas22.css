@@ -1,0 +1,59 @@
+#body-xmas22
+{
+	margin: 0;
+	padding: 0;
+	background-image: url(../img/xmas22/bgGreen.jpg);
+}
+
+.main-xmas22
+{
+	border-left: 4px solid #c00000;
+	border-right: 4px solid #c00000;
+}
+
+a
+{
+	color: #c00000;
+}
+
+h3
+{
+	color:#deffde;
+}
+
+hr
+{
+	border-top: 1px solid #7664af;
+}
+
+#socials
+{
+	padding-top: 20px;
+}
+
+#christmas-massacre
+{
+	background-image: url("https://cdn.cloudflare.steamstatic.com/steam/apps/1840490/header.jpg?t=1669994183");
+	background-position: left top;
+	background-size: 630px;
+}
+
+#christmas-massacre1
+{
+	background: no-repeat center url("https://cdn.cloudflare.steamstatic.com/steam/apps/1840490/header.jpg?t=1669994183");
+	background-size: 350px;
+}
+#faith
+{
+	background-image: url("https://img.itch.zone/aW1nLzEwMzIzNDY4LmpwZw==/315x250%23c/6HByJU.jpg");
+	background-position: left 35%;
+}
+#madvent2 { background-image: url("https://img.itch.zone/aW1nLzEwNjUyNDIyLmdpZg==/315x250%23cm/K0ZYlb.gif");}
+#madvent3
+{
+	background: no-repeat center url("https://madvent2022.s3.us-west-1.amazonaws.com/logo.PNG");
+	background-size: 450px;
+}
+#saturnalia { background-image: url("https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsaturnalia%2Fhome%2FEGS_Saturnalia_SantaRagionesrl_IC1-1523x455-7b64870d53eaa62ef2a41905bc4e207e8ec05e86.png?h=270&resize=1&w=480");}
+#sticky-cats { background-image: url("../img/screens-freeplay-2021/stickycats.png");}
+#tornuktu { background-image: url("https://img.itch.zone/aW1nLzc3MjQxNzYucG5n/original/KCncKK.png")}
