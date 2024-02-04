@@ -2,29 +2,28 @@ body
 {
 	margin: 0;
 	padding: 0;
-  background-color: #7bffc5;
+  background-color: #83cac8;
   background-image: none;
   background-size: contain;
-  color:  #110aff;
+  color:  #364794;
 
 }
 
 
 .main{
   background-color: #fff;
-  border-left: 4px solid #fe4cd6;
-  border-right: 4px solid #fe4cd6;
+  border-left: 4px solid #eb6d90;
+  border-right: 4px solid #eb6d90;
 }
 
 a
 {
-	color: #fe4cd6;
+	color: #eb6d90;
   font-weight: bold;
 }
 
 h3
 {
-	color: #110aff;
   font-weight: bold;
 }
 
@@ -39,69 +38,68 @@ hr
 }
 
 /********************Games******************/
-
-#dialogue
-{
-	background-image: url("https://schedule.sxswsydney.com/_next/image?url=https%3A%2F%2Fd2f30nsd875s3v.cloudfront.net%2FLOADIN%2FSESSIONS%2FGAMING%2F11536%2Fheader%2F500.png&w=1080&q=75");
-	/*background-position: left top;*/
-	background-size: 430px;
-}
-
-#cowchess
-{
-  background-image: url("https://schedule.sxswsydney.com/_next/image?url=https%3A%2F%2Fd2f30nsd875s3v.cloudfront.net%2FLOADIN%2FSESSIONS%2FGAMING%2F11537%2Fheader%2F500.png&w=1080&q=75");
-  /*background-position: left top;*/
-  background-size: 630px;
-}
-
-#funnywalk
-{
-  background-image: url("https://schedule.sxswsydney.com/_next/image?url=https%3A%2F%2Fd2f30nsd875s3v.cloudfront.net%2FLOADIN%2FSESSIONS%2FGAMING%2F11534%2Fheader%2F500.png&w=1080&q=75");
-  background-position: center -5px;
-  background-size: 430px;
-}
-
-#souloftoobirdsgame
-{
-  background-image: url("https://schedule.sxswsydney.com/_next/image?url=https%3A%2F%2Fd2f30nsd875s3v.cloudfront.net%2FLOADIN%2FSESSIONS%2FGAMING%2F10817%2Fheader%2F500.png&w=1080&q=75");
-  background-position: center -5px;
-  background-size: 530px;
-}
-
-#scottygoestocentrelink
-{
-  background-image: url("https://sxswsydney.com/wp-content/uploads/2023/09/scotty-goes-to-centrelink_3424_games_square.png");
-  /*background-position: left top;*/
-  background-size: 630px;
-}
-
-#bluesuburbia
-{
-  background-image: url("https://schedule.sxswsydney.com/_next/image?url=https%3A%2F%2Fd2f30nsd875s3v.cloudfront.net%2FLOADIN%2FSESSIONS%2FGAMING%2F11533%2Fheader%2F500.jpg&w=1080&q=75");
+#anti-citizen-red {
+  background-image: url("https://cdn.cloudflare.steamstatic.com/steam/apps/2097950/header.jpg?t=1695172320");
   background-position: center -45px;
-  background-size: 630px;
+  background-size: cover;
 }
 
-#itcomesinwaves
-{
-  background-image: url("https://schedule.sxswsydney.com/_next/image?url=https%3A%2F%2Fd2f30nsd875s3v.cloudfront.net%2FLOADIN%2FSESSIONS%2FGAMING%2F11532%2Fheader%2F500.png&w=1080&q=75");
-  /*background-position: left top;*/
-  /*background-position: left top;*/
-  background-size: 630px;
-}
-
-#playernonplayer
-{
-  background-image: url("https://schedule.sxswsydney.com/_next/image?url=https%3A%2F%2Fd2f30nsd875s3v.cloudfront.net%2FLOADIN%2FSESSIONS%2FGAMING%2F11540%2Fheader%2F500.jpg&w=1080&q=75");
-  /*background-position: left top;*/
-  background-position: center -25px;
-  background-size: 530px;
-}
-
-#atuel
-{
+#bounden {
+  background-image: url("/img/screens/BoundenPlayed4.jpg");
   background-position: center -45px;
-  background-image: url("https://img.itch.zone/aW1nLzgyNDA4NzUucG5n/original/VFq%2BQ7.png");
-  /*background-position: left top;*/
-  background-size: 730px;
+  background-size: cover;
+}
+
+#catacombs-of-solaris {
+  background-image: url("https://cdn.cloudflare.steamstatic.com/steam/apps/1532250/header.jpg?t=1667817637");
+  background-position: center -31px;
+  background-size: cover;
+}
+
+#cowchess {
+  background-image: url("/img/screens/cowchess.webp");
+  background-position: center -85px;
+  background-size: cover;
+}
+
+#dialogue-ep {
+  background-image: url("https://img.itch.zone/aW1nLzEyOTM3MzU1LnBuZw==/original/pE4g1y.png");
+  background-position: center -75px;
+  background-size: cover;
+}
+
+#everybodys-sad {
+  background-image: url("https://cdn.cloudflare.steamstatic.com/steam/apps/898080/header.jpg?t=1558324299");
+  background-position: center -5px;
+  background-size: contain;
+}
+
+#have-you-eaten-yet {
+  background-image: url("https://img.itch.zone/aW1nLzk3MzI2NDEucG5n/original/C%2BCEBE.png");
+  background-position: center -20px;
+  background-size: cover;
+}
+
+#johann-sebastian-joust {
+  background-image: url("/img/screens/jsjoust-screenshot1.png");
+  background-position: center -85px;
+  background-size: cover;
+}
+
+#moving-on {
+  background-image: url("https://img.itch.zone/aW1nLzEzOTYwNDIxLmdpZg==/original/KJ8%2FVJ.gif");
+  background-position: center -95px;
+  background-size: cover;
+}
+
+#tingus-goose {
+  background-image: url("https://lh3.googleusercontent.com/TENOEuxbeLRnfrZNZAPXrRN8Cw7cCVxxbOknMEV6hQYa8n_ajMA-Aw159OeeinuWtRl4lTKRh0BueRu_tpDiejLv2MCMgib1MSXUzViNm6tns6JThALp73Tkf69STCHsmA=w1280");
+  background-position: center -10px;
+  background-size: contain;
+}
+
+#your-holy-virtuous-heretic {
+  background-image: url("https://cdn.cloudflare.steamstatic.com/steam/apps/2621030/header.jpg?t=1695982177");
+  background-position: center -12px;
+  background-size: cover;
 }
