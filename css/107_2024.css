@@ -1,0 +1,107 @@
+body
+{
+	margin: 0;
+	padding: 0;
+  background-color: #7bffc5;
+  background-image: none;
+  background-size: contain;
+  color:  #110aff;
+
+}
+
+
+.main{
+  background-color: #fff;
+  border-left: 4px solid #fe4cd6;
+  border-right: 4px solid #fe4cd6;
+}
+
+a
+{
+	color: #fe4cd6;
+  font-weight: bold;
+}
+
+h3
+{
+	color: #110aff;
+  font-weight: bold;
+}
+
+hr
+{
+	border-top: 1px solid #110aff;
+}
+
+#socials
+{
+	padding-top: 20px;
+}
+
+/********************Games******************/
+
+#dialogue
+{
+	background-image: url("https://schedule.sxswsydney.com/_next/image?url=https%3A%2F%2Fd2f30nsd875s3v.cloudfront.net%2FLOADIN%2FSESSIONS%2FGAMING%2F11536%2Fheader%2F500.png&w=1080&q=75");
+	/*background-position: left top;*/
+	background-size: 430px;
+}
+
+#cowchess
+{
+  background-image: url("https://schedule.sxswsydney.com/_next/image?url=https%3A%2F%2Fd2f30nsd875s3v.cloudfront.net%2FLOADIN%2FSESSIONS%2FGAMING%2F11537%2Fheader%2F500.png&w=1080&q=75");
+  /*background-position: left top;*/
+  background-size: 630px;
+}
+
+#funnywalk
+{
+  background-image: url("https://schedule.sxswsydney.com/_next/image?url=https%3A%2F%2Fd2f30nsd875s3v.cloudfront.net%2FLOADIN%2FSESSIONS%2FGAMING%2F11534%2Fheader%2F500.png&w=1080&q=75");
+  background-position: center -5px;
+  background-size: 430px;
+}
+
+#souloftoobirdsgame
+{
+  background-image: url("https://schedule.sxswsydney.com/_next/image?url=https%3A%2F%2Fd2f30nsd875s3v.cloudfront.net%2FLOADIN%2FSESSIONS%2FGAMING%2F10817%2Fheader%2F500.png&w=1080&q=75");
+  background-position: center -5px;
+  background-size: 530px;
+}
+
+#scottygoestocentrelink
+{
+  background-image: url("https://sxswsydney.com/wp-content/uploads/2023/09/scotty-goes-to-centrelink_3424_games_square.png");
+  /*background-position: left top;*/
+  background-size: 630px;
+}
+
+#bluesuburbia
+{
+  background-image: url("https://schedule.sxswsydney.com/_next/image?url=https%3A%2F%2Fd2f30nsd875s3v.cloudfront.net%2FLOADIN%2FSESSIONS%2FGAMING%2F11533%2Fheader%2F500.jpg&w=1080&q=75");
+  background-position: center -45px;
+  background-size: 630px;
+}
+
+#itcomesinwaves
+{
+  background-image: url("https://schedule.sxswsydney.com/_next/image?url=https%3A%2F%2Fd2f30nsd875s3v.cloudfront.net%2FLOADIN%2FSESSIONS%2FGAMING%2F11532%2Fheader%2F500.png&w=1080&q=75");
+  /*background-position: left top;*/
+  /*background-position: left top;*/
+  background-size: 630px;
+}
+
+#playernonplayer
+{
+  background-image: url("https://schedule.sxswsydney.com/_next/image?url=https%3A%2F%2Fd2f30nsd875s3v.cloudfront.net%2FLOADIN%2FSESSIONS%2FGAMING%2F11540%2Fheader%2F500.jpg&w=1080&q=75");
+  /*background-position: left top;*/
+  background-position: center -25px;
+  background-size: 530px;
+}
+
+#atuel
+{
+  background-position: center -45px;
+  background-image: url("https://img.itch.zone/aW1nLzgyNDA4NzUucG5n/original/VFq%2BQ7.png");
+  /*background-position: left top;*/
+  background-size: 730px;
+}
