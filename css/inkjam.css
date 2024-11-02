@@ -1,0 +1,22 @@
+body
+{
+	background-image: none;
+	background-size: contain;
+	background-color: #d6d6d6;
+}
+
+.main
+{
+	background-color: #fff;
+	border-left: 4px solid #848080;
+	border-right: 4px solid #848080;
+	color:  #000;
+}
+
+#socials
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 20px;
+	background-color: #848080;
+}
